@@ -177,6 +177,10 @@ attempting the bonus deliverables!**
    additional GET request to access the movie's details.
 
 
+# Live Link
+https://cyndimustapha.github.io/phase-1-wk3-code-challenge/
+
+
 
 
 
